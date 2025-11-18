@@ -18,7 +18,7 @@ class Student {
     void display() const {
         cout<<"Roll: "<<roll
             <<" | Name: "<<name 
-            <<" | Course: "<<course<<' \n';
+            <<" | Course: "<<course<<'\n';
     };
 
 };
